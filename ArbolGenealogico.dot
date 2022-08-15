@@ -7,71 +7,71 @@ edge [fontname="Helvetica,Arial,sans-serif"]
     AP [shape=ellipse,color=blue,style=bold,label=<
         <table cellspacing="0" border="0" cellborder="1">
             <tr><td><img src="images/foto.png" /></td></tr>
-            <tr><td>"Nombre Abuelo Paterno"</td></tr>
-            <tr><td>"fecha de nacimiento Lugar de Nacimiento"</td></tr>
+            <tr><td>"Abraham"</td></tr>
+            <tr><td>"10/12/90"</td></tr>
         </table>
     >];
     AAP [shape=ellipse,color=red,style=bold,label=<
         <table cellspacing="0" border="0" cellborder="1">
             <tr><td><img src="images/foto.png" /></td></tr>
-            <tr><td>"Nombre Abuelo Paterno"</td></tr>
-            <tr><td>"fecha de nacimiento Lugar de Nacimiento"</td></tr>
+            <tr><td>"Mona"</td></tr>
+            <tr><td>"08/5/93"</td></tr>
         </table>
     >];
 
     AM [shape=ellipse,color=blue,style=bold,label=<
         <table cellspacing="0" border="0" cellborder="1">
             <tr><td><img src="images/foto.png" /></td></tr>
-            <tr><td>"Nombre Abuelo Paterno"</td></tr>
-            <tr><td>"fecha de nacimiento Lugar de Nacimiento"</td></tr>
+            <tr><td>"Jackie"</td></tr>
+            <tr><td>"08/3/98"</td></tr>
         </table>
     >];
 
     AAM [shape=ellipse,color=red,style=bold,label=<
         <table cellspacing="0" border="0" cellborder="1">
             <tr><td><img src="images/foto.png" /></td></tr>
-            <tr><td>"Nombre Abuelo Paterno"</td></tr>
-            <tr><td>"fecha de nacimiento Lugar de Nacimiento"</td></tr>
+            <tr><td>"Clancy"</td></tr>
+            <tr><td>"08/4/99"</td></tr>
         </table>
     >];
 
     PP [shape=ellipse,color=blue,style=bold,label=<
         <table cellspacing="0" border="0" cellborder="1">
             <tr><td><img src="images/foto.png" /></td></tr>
-            <tr><td>"Nombre Abuelo Paterno"</td></tr>
-            <tr><td>"fecha de nacimiento Lugar de Nacimiento"</td></tr>
+            <tr><td>"Homer"</td></tr>
+            <tr><td>"08/4/99"</td></tr>
         </table>
     >];
 
     MM [shape=ellipse,color=red,style=bold,label=<
         <table cellspacing="0" border="0" cellborder="1">
             <tr><td><img src="images/foto.png" /></td></tr>
-            <tr><td>"Nombre Abuelo Paterno"</td></tr>
-            <tr><td>"fecha de nacimiento Lugar de Nacimiento"</td></tr>
+            <tr><td>"Marge"</td></tr>
+            <tr><td>"08/4/99"</td></tr>
         </table>
     >];
 
     YO [shape=ellipse,color=red,style=bold,label=<
         <table cellspacing="0" border="0" cellborder="1">
             <tr><td><img src="images/foto.png" /></td></tr>
-            <tr><td>"Nombre Abuelo Paterno"</td></tr>
-            <tr><td>"fecha de nacimiento Lugar de Nacimiento"</td></tr>
+            <tr><td>"Bart"</td></tr>
+            <tr><td>"08/4/99"</td></tr>
         </table>
     >];
 
     HO [shape=ellipse,color=blue,style=bold,label=<
         <table cellspacing="0" border="0" cellborder="1">
             <tr><td><img src="images/foto.png" /></td></tr>
-            <tr><td>"Nombre Abuelo Paterno"</td></tr>
-            <tr><td>"fecha de nacimiento Lugar de Nacimiento"</td></tr>
+            <tr><td>"Lisa"</td></tr>
+            <tr><td>"08/4/99"</td></tr>
         </table>
     >];
 
     HA [shape=ellipse,color=red,style=bold,label=<
         <table cellspacing="0" border="0" cellborder="1">
             <tr><td><img src="images/foto.png" /></td></tr>
-            <tr><td>"Nombre Abuelo Paterno"</td></tr>
-            <tr><td>"fecha de nacimiento Lugar de Nacimiento"</td></tr>
+            <tr><td>"Maggie"</td></tr>
+            <tr><td>"08/4/99"</td></tr>
         </table>
     >];
 
